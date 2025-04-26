@@ -1,0 +1,1 @@
+print("This is a python file created for practical purpose")
